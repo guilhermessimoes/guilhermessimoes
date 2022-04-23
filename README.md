@@ -5,7 +5,7 @@
 - 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, react, Nodejs(express). 🤣
 - 👯 Estou aberto a contribuir com um pouco do meu conhecimento.
 - 🥅 Metas 2022: Aperfeiçoar minhas habilidades,  com testes unitarios e integração, arquitetura limpa, docker, Kubernetes, AWS, Azure, Jest.
-- ⚡ Curiosidades: Amo ver filme  com meu filho, jogar video game  com ele, passear em  parque, ver seriado e ficar com a familia.
+- ⚡ Curiosidades: Sou casado e tenho um filho de 6 aninhos, amo ver filme em familia, jogar video game com ele, passear em  parque, ver seriado e ficar com a familia.
 
 <br />
 
