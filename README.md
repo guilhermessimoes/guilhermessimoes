@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermessimoes&color=yellow" alt="Profile views" /> </p>
 
 - 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, react, Nodejs(express). 🤣
-- 👯 Estou aberto a contribuir meu conhecimento.
+- 👯 Estou aberto a contribuir com um pouco do meu conhecimento.
 - 🥅 Metas 2022: Aperfeiçoar minhas habilidades,  com testes unitarios e integração, arquitetura limpa, docker, Kubernetes, AWS, Azure, Jest.
 - ⚡ Curiosidades: Amo ver filme  com meu filho, jogar video game  com ele, passear em  parque, ver seriado e ficar com a familia.
 
