@@ -44,13 +44,10 @@
 <br />
 <br />
 
-## ⚙️ &nbsp;Sumario do GitHub
+---
+
+## ⚙️ &nbsp;GitHub Analítico
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermessimoes&show_icons=true&theme=vision-friendly-dark" alt="Guilherme Simoes status"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermessimoes&layout=compact&theme=vision-friendly-dark" alt="guilherme Simoes linguagens utilizadas"/>
-</p>
-
-<br><br>
-
----
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=guilhermessimoes&show_icons=true&theme=tokyonight" alt="Guilherme Simoes status"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermessimoes&layout=compact&theme=tokyonight" alt="guilherme Simoes linguagens utilizadas"/>
