@@ -2,7 +2,7 @@
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Eu sou Guilherme Simões</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermessimoes&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 Atualmento estou trabalhando na empresa [Framework](https://www.frameworkdigital.com.br/)
+- 🔭 Atualmento estou trabalhando na empresa [Framework Digital](https://www.frameworkdigital.com.br/)
 - 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, react, Nodejs(express). 🤣
 - 👯 Estou aberto a contribuir com um pouco do meu conhecimento.
 - 🥅 Metas 2022: Aperfeiçoar minhas habilidades,  com testes unitarios e integração, arquitetura limpa, docker, Kubernetes, AWS, Azure, Jest.
