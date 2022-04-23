@@ -1,33 +1,21 @@
 # olá, me chamo Guilherme! Sou desenvolvedor Web. 👋 
+## Eu sou casado, com um filho lindo e desenvolvedor web em constante evolução!!
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com)
-
-
-## Eu sou casado, com um filho lindo e desenvolvedor em constante evolução!!
-
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 No momento estou aprofundando meu conhecimento em TypeScript, DDD, TDD, react, Nodejs(express). 🤣
 - 👯 Estou aberto a contribuir e procurando algo que eu possa contribuir com meu codigo e conhecimento.
-- 🥅 Metas 2022: Aperfeiçoar minhas habilidades,  com testes unitarios e integração, arquitetura limpa, docker, kubbernets, aws.
+- 🥅 Metas 2022: Aperfeiçoar minhas habilidades,  com testes unitarios e integração, arquitetura limpa, docker, Kubernetes, aws.
 - ⚡ Curiosidades: Amo ver filme  com meu filho, jogar video game  com ele, passear em  parque, ver seriado e ficar com a familia.
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
-
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Guilher93093417#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/Guilher93093417#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/guilherme-sim%C3%B5es-a5852915a/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/guilherme-sim%C3%B5es-a5852915a/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/guilherme_simoes99#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/guilherme_simoes99#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -55,7 +43,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Recentnes GitHub Ativos</summary>
   
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
@@ -68,7 +56,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Status</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
